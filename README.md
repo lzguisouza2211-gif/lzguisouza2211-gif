@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Olá! Eu sou Luiz Guilherme Souza!
+Hello! I am Luiz Guilherme Souza!
 
-<!--
-**lzguisouza2211-gif/lzguisouza2211-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou Desenvolvedor Full Stack, atuando com aplicações web modernas e integrações full stack.  
+I'm a Full Stack Developer working with modern web applications and full stack integrations.
 
-Here are some ideas to get you started:
+Convido você a conhecer alguns dos meus projetos em produção e em desenvolvimento.  
+I invite you to explore some of my projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔗 [GitHub](https://github.com/lzguisouza2211-gif) | 🔗 [LinkedIn](https://www.linkedin.com/in/luiz-guilherme-souza-289b5a236/)
+
+---
+
+### 🚀 Tecnologias que utilizo no dia a dia | Technologies I use daily
+
+React • TypeScript • Supabase • PostgreSQL • JavaScript • HTML5 • CSS3 • Docker • Git • Vite • Tailwind CSS
+
+---
+
+### 📊 Estatísticas do GitHub | GitHub Statistics
