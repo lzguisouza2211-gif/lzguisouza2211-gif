@@ -13,7 +13,14 @@ I invite you to explore some of my projects.
 
 ### 🚀 Tecnologias que utilizo no dia a dia | Technologies I use daily
 
-React • TypeScript • Supabase • PostgreSQL • JavaScript • HTML5 • CSS3 • Docker • Git • Vite • Tailwind CSS
+Front-end
+React • TypeScript • JavaScript • HTML5 • CSS3 • Tailwind CSS • Vite
+
+Back-end & Integração
+Supabase • PostgreSQL • APIs REST • Node.js
+
+Ferramentas & Boas práticas
+Git • Docker • Metodologias Ágeis (Scrum/Kanban)
 
 ---
 
