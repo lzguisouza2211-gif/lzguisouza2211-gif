@@ -1,5 +1,5 @@
 ## 👋 Olá! Eu sou Guilherme!
-Hello! I am Luiz Guilherme Souza!
+Hello! I am Guilherme!
 
 Sou Desenvolvedor Full Stack, atuando com aplicações web modernas e integrações full stack.  
 I'm a Full Stack Developer working with modern web applications and full stack integrations.
