@@ -17,7 +17,7 @@ Front-end
 React • TypeScript • JavaScript • HTML5 • CSS3 • Tailwind CSS • Vite
 
 Back-end & Integração
-Supabase • PostgreSQL • APIs REST • Node.js
+Supabase • PostgreSQL • APIs REST • Node.js • n8n
 
 Ferramentas & Boas práticas
 Git • Docker • Metodologias Ágeis (Scrum/Kanban)
