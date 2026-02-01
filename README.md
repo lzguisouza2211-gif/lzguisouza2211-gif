@@ -23,5 +23,3 @@ Ferramentas & Boas práticas
 Git • Docker • Metodologias Ágeis (Scrum/Kanban)
 
 ---
-
-### 📊 Estatísticas do GitHub | GitHub Statistics
